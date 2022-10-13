@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its">
+  <subject>
+    <label key="unit1_subj_01">
+      <text>Soyez bienvenu/e à cette enquête&#x00a0;!</text>
+    </label>
+  </subject>
+  <question>
+    <label key="unit1_ques_01">
+      <text>Les videogames vous intéressent&#x00a0;?</text>
+    </label>
+  </question>
+  <prompts>
+    <prompt>
+      <label key="unit1_prom_01">
+        <text>Sélectionner une seule réponse</text>
+      </label>
+    </prompt>
+    <prompt>
+      <label key="unit1_prom_02">
+        <text>Il n'y a pas de réponses <em>correctes</em>.</text>
+      </label>
+    </prompt>
+  </prompts>
+  <responses>
+    <response>
+      <label key="unit1_resp_01">
+        <text>Très intéressé/e</text>
+      </label>
+    </response>
+    <response>
+      <label key="unit1_resp_02">
+        <text>Intéressé/e</text>
+      </label>
+    </response>
+    <response>
+      <label key="unit1_resp_03">
+        <text>Pas intéressé/e</text>
+      </label>
+    </response>
+    <response>
+      <label key="unit1_resp_04">
+        <text>Pas du tout intéressé/e</text>
+      </label>
+    </response>
+  </responses>
+  <instructions>
+    <foo>
+      <label key="unit1_instr_01">
+        <text>Sélectionnez la meilleure option.</text>
+      </label>
+    </foo>
+    <navigation>
+      <label key="unit1_instr_02">
+        <text>Cliquez ici pour continuer.</text>
+      </label>
+    </navigation>
+  </instructions>
+</file>
