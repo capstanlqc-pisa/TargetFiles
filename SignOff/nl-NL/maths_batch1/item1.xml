@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its">
+  <subject>
+    <label key="unit1_subj_01">
+      <text>Welkom bij dit onderzoek!</text>
+    </label>
+  </subject>
+  <question>
+    <label key="unit1_ques_01">
+      <text>Ben je geïnteresseerd in videogames?</text>
+    </label>
+  </question>
+  <prompts>
+    <prompt>
+      <label key="unit1_prom_01">
+        <text>Selecteer één reactie.</text>
+      </label>
+    </prompt>
+    <prompt>
+      <label key="unit1_prom_02">
+        <text>Er zijn geen <em>goede</em> antwoorden.</text>
+      </label>
+    </prompt>
+  </prompts>
+  <responses>
+    <response>
+      <label key="unit1_resp_01">
+        <text>Zeer geïnteresseerd</text>
+      </label>
+    </response>
+    <response>
+      <label key="unit1_resp_02">
+        <text>Interesse</text>
+      </label>
+    </response>
+    <response>
+      <label key="unit1_resp_03">
+        <text>Niet geïnteresseerd</text>
+      </label>
+    </response>
+    <response>
+      <label key="unit1_resp_04">
+        <text>Helemaal niet geïnteresseerd</text>
+      </label>
+    </response>
+  </responses>
+  <instructions>
+    <foo>
+      <label key="unit1_instr_01">
+        <text>Selecteer de beste optie.</text>
+      </label>
+    </foo>
+    <navigation>
+      <label key="unit1_instr_02">
+        <text>Klik hier om door te gaan.</text>
+      </label>
+    </navigation>
+  </instructions>
+</file>
